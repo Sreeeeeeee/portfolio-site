@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.4bc88f44.chunk.css",
+    "main.js": "/portfolio-site/static/js/main.a4987255.chunk.js",
+    "main.js.map": "/portfolio-site/static/js/main.a4987255.chunk.js.map",
+    "runtime-main.js": "/portfolio-site/static/js/runtime-main.9fe206bc.js",
+    "runtime-main.js.map": "/portfolio-site/static/js/runtime-main.9fe206bc.js.map",
+    "static/css/2.833dd627.chunk.css": "/portfolio-site/static/css/2.833dd627.chunk.css",
+    "static/js/2.737bd90c.chunk.js": "/portfolio-site/static/js/2.737bd90c.chunk.js",
+    "static/js/2.737bd90c.chunk.js.map": "/portfolio-site/static/js/2.737bd90c.chunk.js.map",
+    "index.html": "/portfolio-site/index.html",
+    "precache-manifest.1dc2023e0d0684f5086054690f389eba.js": "/portfolio-site/precache-manifest.1dc2023e0d0684f5086054690f389eba.js",
+    "service-worker.js": "/portfolio-site/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/portfolio-site/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.4bc88f44.chunk.css.map": "/portfolio-site/static/css/main.4bc88f44.chunk.css.map",
+    "static/media/girlsWhoCode.png": "/portfolio-site/static/media/girlsWhoCode.8bdac0dc.png",
+    "static/media/ideas.png": "/portfolio-site/static/media/ideas.04f22177.png",
+    "static/media/learning.png": "/portfolio-site/static/media/learning.790465a7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fe206bc.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.737bd90c.chunk.js",
+    "static/css/main.4bc88f44.chunk.css",
+    "static/js/main.a4987255.chunk.js"
+  ]
+}
