@@ -36,6 +36,6 @@
   },
   "devDependencies": {
     "case-sensitive-paths-webpack-plugin": "^2.2.0",
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^5.0.0"
   }
 }
